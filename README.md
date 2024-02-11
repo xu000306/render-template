@@ -9,6 +9,7 @@ Template for the publish to render hybrid assignment
 
 - Use the following values during creation:
 
+  | ------------- | ------------- |
   | Runtime       | Node          |
   | Build Command | npm i         |
   | Start Command | npm run start |
