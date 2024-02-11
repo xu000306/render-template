@@ -15,6 +15,8 @@ Template for the publish to render hybrid assignment
   | Build Command | npm i         |
   | Start Command | npm run start |
 
+- Select the Free Tier
+
 - Add the environment variable `STUDENT_NAME` with your name to the configuration. The application will send a 500 error if this is not properly set up.
 
 - Submit the url on Brightspace, so I can test it out!
